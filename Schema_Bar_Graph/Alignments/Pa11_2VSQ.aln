@@ -1,0 +1,87 @@
+#CLUSTAL multiple sequence alignment by MUSCLE (3.8)
+2VSQ            MSQFSKDQVQDMYYLSPMQEGMLFHAILNPGQSFYLEQITMKVKGSLNIKCLEESMNVIM
+Pa11_CAT        ---------QQPLALSFAQERQWFLWQLEPESAAYHIPSALRLRGRLDVDALQRSFDSLV
+                         *:   **  **   *   *:* .: *    ::.:.* *::..*: *:: ::
+
+2VSQ            DRYDVFRTVF------IHEKVKRPVQVVLKKRQFHIEEIDLTHLTGSEQTAKINEYKEQD
+Pa11_CAT        ARHETLRTRFRLEGGRSYQQVQPAVSVSIEREQFGEEGL-------IERIQAI-------
+                 *::.:** *       :::*: .*.* ::. **  * :        *.   *       
+
+2VSQ            KIRGFDLTRDIPMRAAIFKKAEESFEWVWSYHHIILDGWCFGIVVQDLFKVYNALREQKP
+Pa11_CAT        VVQPFDLERGPLLRVNLLQLAEDDHVLVLVQHHIVSDGWSMQVMVEELVQLYAAYSQGLD
+                 :. *** *.  :*. ::: **:..  *   ***: ***.: ::*::*.::* *  :   
+
+2VSQ            YSLPPVK-PYKDYI----KWLEKQDKQASLRYWREYLEGFEGQTTFA-EQRKKQKDGYEP
+Pa11_CAT        VVLPALPIQYADYALWQRSWMEAGEKERQLAYWTGLLGGEQPVLELPFDRPRPARQSHRG
+                  **.:   * **     .*:*  :*: .* **   * * :    :. :. .  .:.:  
+
+2VSQ            KELLFSPSEAETKAFTELAKSQHTTLSTALQAVWSVLISRYQQSGDLAFGTVVSGRPAEI
+Pa11_CAT        AQLGFELSRELVEAVRALAQREGASSFMLLLASFQALLYRYSGQADIRVGVPIANR--NR
+                 :* *. *   .:*.  **: : ::    * * :..*: **. ..*: .*. ::.*  : 
+
+2VSQ            KGVEHMVGLFINVVPRRVKLSEGITFNGLLKRLQEQSLQSEPHQYVPLYDIQSQADQPKL
+Pa11_CAT        VETERLIGFFVNTQVLKADLDGRMGFDELLAQARQRALEAQAHQDLPFEQLVEALQPERN
+                  .*.::*:*:*.   ...*.  : *: ** . .:.:*:::.** :*: :: .  :  . 
+
+2VSQ            IDHIIVFEN-YPLQDAKNEESSENGFDMVDVHVF----EKSNYDLNL-MASPGDEMLIKL
+Pa11_CAT        ASHNPLFQVLFNHQSEIRSVTPEVQLEDLRLEGLAWDGQTAQFDLTLDIQEDENGIWASF
+                 .*  :*:  :  *.  .. :.*  :: : :  :    :.:::**.* : .  : :  .:
+
+2VSQ            AYNENVFDEAFILRLKSQLLTAIQQLIQNPDQPVSTINLVDDREREFLLTGLNPPAQAHE
+Pa11_CAT        DYATDLFDASTVERLAGHWRNLLRGIVANPRQRLGELPLLDAPERRQTLSEWNPAQRECA
+                 *  ::** : : ** .:  . :. :: ** * :. : *:*  **   *:  **. .   
+
+2VSQ            TK-PLTYWFKEAVNANPDAPALTYSGQTLSYRELDEEANRIARRLQKHGAGKGSVVALYT
+Pa11_CAT        VQGTLQQRFEEQARQRPQAVALILDEQRLSYGELNARANRLAHCLIARGVGADVPVGLAL
+                .: .*  .*:* .. .*:* **  . * *** **:  ***:*. *  .*.* .  *.*  
+
+2VSQ            KRSLELVIGILGVLKAGAAYLPVDPKLPEDRISYMLADSAAACLLTHQEMKEQAAELPY-
+Pa11_CAT        ERSLDMLVGLLAILKAGGAYLPLDPAAPEERLAHILDDSGVRLLLTQGHLLER---LPRQ
+                :***::::*:*.:****.****:**  **:*::::* **..  ***:  : *.   **  
+
+2VSQ            TGTTLFIDDQTRFEEQA-SDPATAIDPNDPAYIMYTSGTTGKPKGNITTHANIQGLVKHV
+Pa11_CAT        AGVEVLAIDGLVLDGYAESDPLPTLSADNLAYVIYTSGSTGKPKGTLLTHRNALRLFSAT
+                :*. ::  *   ::  * *** .::..:: **::****:******.: ** *   *.. .
+
+2VSQ            D-YMAFSDQDTFLSVSNYAFDAFTFDFYASMLNAARLIIADEHTLLDTERLTDLILQENV
+Pa11_CAT        EAWFGFDERDVWTLFHSYAFDFSVWEIFGALLYGGRLVIVPQWVSRSPEDFYRLLCREGV
+                : ::.*.:.*.:  . .****  .::::.::* ..**:*. :..  ..* :  *: .*.*
+
+2VSQ            NVMFATTALFNLLTDAG-----EDWMKGLRCILFGGERASVPHVRKALRIMG--PGKLIN
+Pa11_CAT        TVLNQTPSAFKQLMAVACSADMATQQPALRYVIFGGEALDLQSLRPWFQRFGDRQPQLVN
+                .*:  *.: *: *  ..       .  .** ::****  .:  :*  :. :*    :*:*
+
+2VSQ            CYGPTEGTVFATAHVVH--DLPDSISSLPIGKPISNASVYILNEQSQLQPFGAVGELCIS
+Pa11_CAT        MYGITETTVHVTYRPVSEADLKGGLVS-PIGGTIPDLSWYILDRDLNPVPRGAVGELYIG
+                 ** ** **..* . *   ** ..: * *** .*.: * ***: : :  * ****** *.
+
+2VSQ            GMGVSKGYVNRADLTKEKFIENPFK--PGETLYRTGDLARWLPDGTIEYAGRIDDQVKIR
+Pa11_CAT        RAGLARGYLRRPGLSATRFVPNPFPGGAGERLYRTGDLARFQADGNIEYIGRIDHQVKVR
+                  *::.**:.*..*:  .*: ***   .** *********: .**.*** **** ***:*
+
+2VSQ            GHRIELEEIEKQLQEYPGVKDAVVVADRHESGDASINAYLVNRTQLSA----EDVKAHLK
+Pa11_CAT        GFRIELGEIEAALAGLAGVRDAVVLA-HDGVGGTQLVGYVVADSAEDAERLRESLRESLK
+                *.**** ***  *   .**.****:* .   *.:.: .*:*  :  .*    *.:.  **
+
+2VSQ            KQLPAYMVPQTFTFLDELPLTTNGKVNKRLLPKPDQDQLAEEWIGPRNEMEETIAQIWSE
+Pa11_CAT        RHLPDYMVPAHLMLLERMPLTVNGKLDRQALPQPDASLSQQAYRAPGSELEQRIAAIWAE
+                .:** ****  : :*: :***.***::.. **:** .   : : .* .*:*: ** **:*
+
+2VSQ            VLGRKQIGIHDDFFALGGHALKAMTAASRIKKELGIDLPVKLLFEAPTIAGISAYLKNGG
+Pa11_CAT        ILGVERVGLDDNFFELGGHSLLLLMLKERIGDTCQATLSISQLMTHASVAEQAACI----
+                :** :.:*: *:** ****:*  :   .** .     *.:. *:  .::*  :* :    
+
+2VSQ            SDGLQDVTIMNQDQEQIIFAFPPVLGYGLMYQNLSSRLPSYKLCAFDFIEEEDRLDRYAD
+Pa11_CAT        ------------------------------------------------------------
+                                                                            
+
+2VSQ            LIQKLQPEGPLTLFGYSAGCSLAFEAAKKLEEQGRIVQRIIMVDSYKKQGVSTVESDVEA
+Pa11_CAT        ------------------------------------------------------------
+                                                                            
+
+2VSQ            LMNVNREAVKHGLKQKTHAFYSYYVNQVKADIDLLTSGADFDIPEWLASWEEATTGVYRM
+Pa11_CAT        ------------------------------------------------------------
+                                                                            
+
+2VSQ            KRGFGTHAEMLQGETLDRNAEILLEFLNTQTVTVSKGEFEAYVEQKLISE
+Pa11_CAT        --------------------------------------------------
